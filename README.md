@@ -1,5 +1,7 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+## Name : K.GOUTHAM
+## Reg No : 212223110019
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
